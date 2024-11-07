@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467154557192",
+    "project_id": "fcm4flutter-5f1de",
+    "storage_bucket": "fcm4flutter-5f1de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467154557192:android:f002049ea25e61244a74bd",
+        "android_client_info": {
+          "package_name": "com.flutter.fcm.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpaAu7iV1SNqR4HAWnMOlQtLmjNUIMoNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
